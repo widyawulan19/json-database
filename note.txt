@@ -1,0 +1,16 @@
+DATA ARRAY
+"menuPicks": ["barista", "guest"],
+
+CARA RENDER ARRAY
+
+{item.menuPicks.map((pick) => (
+  <span key={pick}>{pick}</span>
+))}
+
+
+DATA OBJEK
+"price": { "medium": 30, "large": 40 },
+
+CARA RENDER DATA OBJEK
+<p>M {item.price.medium}K</p>
+<p>L {item.price.large}K</p>
