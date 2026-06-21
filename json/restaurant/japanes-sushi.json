@@ -1,0 +1,314 @@
+[
+    {
+        "id": 1,
+        "category": "Sushi",
+        "items": [
+            {
+                "id": 1,
+                "name": "Salmon Nigiri",
+                "description": "Fresh slices of premium salmon served over seasoned sushi rice.",
+                "tags": [
+                    "popular"
+                ],
+                "menuPicks": [
+                    "chef"
+                ],
+                "price": {
+                    "2 pcs": 36
+                },
+                "image": "/images/menu/salmon-nigiri.webp"
+            },
+            {
+                "id": 2,
+                "name": "Tuna Nigiri",
+                "description": "Fresh tuna placed on hand-pressed sushi rice.",
+                "tags": [],
+                "menuPicks": [],
+                "price": {
+                    "2 pcs": 38
+                },
+                "image": "/images/menu/tuna-nigiri.webp"
+            },
+            {
+                "id": 3,
+                "name": "Ebi Nigiri",
+                "description": "Sweet cooked shrimp served over sushi rice.",
+                "tags": [],
+                "menuPicks": [],
+                "price": {
+                    "2 pcs": 32
+                },
+                "image": "/images/menu/ebi-nigiri.webp"
+            },
+            {
+                "id": 4,
+                "name": "Tamago Nigiri",
+                "description": "Japanese sweet omelet served on seasoned rice.",
+                "tags": [
+                    "kids"
+                ],
+                "menuPicks": [],
+                "price": {
+                    "2 pcs": 24
+                },
+                "image": "/images/menu/tamago-nigiri.webp"
+            },
+            {
+                "id": 5,
+                "name": "Unagi Nigiri",
+                "description": "Grilled freshwater eel glazed with sweet soy sauce.",
+                "tags": [
+                    "signature"
+                ],
+                "menuPicks": [
+                    "guest"
+                ],
+                "price": {
+                    "2 pcs": 48
+                },
+                "image": "/images/menu/unagi-nigiri.webp"
+            },
+            {
+                "id": 6,
+                "name": "Salmon Sashimi",
+                "description": "Fresh premium salmon served without rice.",
+                "tags": [
+                    "fresh"
+                ],
+                "menuPicks": [],
+                "price": {
+                    "6 pcs": 65
+                },
+                "image": "/images/menu/salmon-sashimi.webp"
+            },
+            {
+                "id": 7,
+                "name": "Tuna Sashimi",
+                "description": "Fresh tuna slices with wasabi and soy sauce.",
+                "tags": [],
+                "menuPicks": [],
+                "price": {
+                    "6 pcs": 68
+                },
+                "image": "/images/menu/tuna-sashimi.webp"
+            },
+            {
+                "id": 8,
+                "name": "Mixed Sushi Set",
+                "description": "Chef's selection of assorted nigiri and rolls.",
+                "tags": [
+                    "best seller"
+                ],
+                "menuPicks": [
+                    "chef"
+                ],
+                "price": {
+                    "8 pcs": 99
+                },
+                "image": "/images/menu/mixed-sushi.webp"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Tasty Rolls",
+        "items": [
+            {
+                "id": 9,
+                "name": "California Roll",
+                "description": "Crab stick, avocado, cucumber, and tobiko.",
+                "tags": [
+                    "popular"
+                ],
+                "menuPicks": [
+                    "guest"
+                ],
+                "price": {
+                    "8 pcs": 55
+                },
+                "image": "/images/menu/california-roll.webp"
+            },
+            {
+                "id": 10,
+                "name": "Spicy Tuna Roll",
+                "description": "Fresh tuna mixed with spicy mayo and cucumber.",
+                "tags": [
+                    "spicy"
+                ],
+                "menuPicks": [],
+                "price": {
+                    "8 pcs": 58
+                },
+                "image": "/images/menu/spicy-tuna-roll.webp"
+            },
+            {
+                "id": 11,
+                "name": "Salmon Avocado Roll",
+                "description": "Fresh salmon rolled with creamy avocado.",
+                "tags": [],
+                "menuPicks": [],
+                "price": {
+                    "8 pcs": 60
+                },
+                "image": "/images/menu/salmon-avocado-roll.webp"
+            },
+            {
+                "id": 12,
+                "name": "Dragon Roll",
+                "description": "Shrimp tempura roll topped with avocado and eel sauce.",
+                "tags": [
+                    "signature"
+                ],
+                "menuPicks": [
+                    "chef"
+                ],
+                "price": {
+                    "8 pcs": 72
+                },
+                "image": "/images/menu/dragon-roll.webp"
+            },
+            {
+                "id": 13,
+                "name": "Crunchy Shrimp Roll",
+                "description": "Tempura shrimp with crispy flakes and spicy mayo.",
+                "tags": [
+                    "crispy"
+                ],
+                "menuPicks": [],
+                "price": {
+                    "8 pcs": 62
+                },
+                "image": "/images/menu/crunchy-shrimp-roll.webp"
+            },
+            {
+                "id": 14,
+                "name": "Rainbow Roll",
+                "description": "California roll topped with assorted fresh fish.",
+                "tags": [
+                    "premium"
+                ],
+                "menuPicks": [
+                    "guest"
+                ],
+                "price": {
+                    "8 pcs": 78
+                },
+                "image": "/images/menu/rainbow-roll.webp"
+            },
+            {
+                "id": 15,
+                "name": "Philadelphia Roll",
+                "description": "Salmon, cream cheese, and cucumber.",
+                "tags": [],
+                "menuPicks": [],
+                "price": {
+                    "8 pcs": 60
+                },
+                "image": "/images/menu/philadelphia-roll.webp"
+            },
+            {
+                "id": 16,
+                "name": "Volcano Roll",
+                "description": "Baked seafood roll topped with creamy spicy sauce.",
+                "tags": [
+                    "signature"
+                ],
+                "menuPicks": [
+                    "chef"
+                ],
+                "price": {
+                    "8 pcs": 75
+                },
+                "image": "/images/menu/volcano-roll.webp"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Specials",
+        "items": [
+            {
+                "id": 17,
+                "name": "Chef's Omakase",
+                "description": "Seasonal chef-selected assortment of premium sushi.",
+                "tags": [
+                    "chef special"
+                ],
+                "menuPicks": [
+                    "chef"
+                ],
+                "price": {
+                    "1 set": 120
+                },
+                "image": "/images/menu/omakase.webp"
+            },
+            {
+                "id": 18,
+                "name": "Premium Sashimi Platter",
+                "description": "Assorted premium sashimi with fresh seasonal seafood.",
+                "tags": [
+                    "premium"
+                ],
+                "menuPicks": [],
+                "price": {
+                    "1 set": 110
+                },
+                "image": "/images/menu/premium-sashimi.webp"
+            },
+            {
+                "id": 19,
+                "name": "Tempura Udon",
+                "description": "Japanese udon noodles served with crispy shrimp tempura.",
+                "tags": [
+                    "hot"
+                ],
+                "menuPicks": [],
+                "price": {
+                    "1 bowl": 65
+                },
+                "image": "/images/menu/tempura-udon.webp"
+            },
+            {
+                "id": 20,
+                "name": "Chicken Teriyaki",
+                "description": "Grilled chicken glazed with homemade teriyaki sauce.",
+                "tags": [],
+                "menuPicks": [
+                    "guest"
+                ],
+                "price": {
+                    "1 plate": 58
+                },
+                "image": "/images/menu/chicken-teriyaki.webp"
+            },
+            {
+                "id": 21,
+                "name": "Beef Yakiniku",
+                "description": "Thinly sliced beef grilled in savory yakiniku sauce.",
+                "tags": [
+                    "best seller"
+                ],
+                "menuPicks": [],
+                "price": {
+                    "1 plate": 68
+                },
+                "image": "/images/menu/beef-yakiniku.webp"
+            },
+            {
+                "id": 22,
+                "name": "Salmon Teriyaki",
+                "description": "Grilled salmon served with teriyaki glaze and steamed rice.",
+                "tags": [
+                    "signature"
+                ],
+                "menuPicks": [
+                    "chef"
+                ],
+                "price": {
+                    "1 plate": 85
+                },
+                "image": "/images/menu/salmon-teriyaki.webp"
+            }
+        ]
+    }
+]
